@@ -1,0 +1,32 @@
+{
+  "name": "hvindk",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc -b && vite build",
+    "preview": "vite preview",
+    "generate-schema": "typescript-json-schema ./src/types/producer.ts Producers --out producers.schema.json"
+  },
+  "dependencies": {
+    "@vue-leaflet/vue-leaflet": "^0.10.1",
+    "bootstrap": "^5.3.3",
+    "tailwindcss": "^3.4.14",
+    "typescript-json-schema": "^0.65.1",
+    "vue": "3.5.12",
+    "vue-router": "4.4.0",
+    "vuetify": "^3.7.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.1.4",
+    "leaflet": "^1.9.4",
+    "typescript": "^5.5.3",
+    "vite": "^5.4.8",
+    "vue-leaflet": "^0.1.0",
+    "vue-tsc": "^2.1.6"
+  },
+  "resolutions": {
+    "vue-router": "4.4.0"
+  }
+}

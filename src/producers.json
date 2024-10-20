@@ -1,0 +1,29 @@
+{
+    "$schema": "../producers.schema.json",
+    "producers": [
+        {
+            "id": "petri",
+            "name": "Weingut Petri",
+            "pretext": "A family-owned winery in the heart of the Rheinhessen wine region.",
+            "description": "Weingut Petri ligger I det Nordlige Pfalz i byen Herxheim am berg som ligger ca300 over havet tæt ved Reinen, vest for Mannheim.Familien har produceret vin i området siden 1656, 14 generation Phillipp ogMaximillian har gennem de senere år langsomt overtaget ansvaret forproduktionen efter forældrene Gerd og Sigrum.Vingården har i dag 25 h og producerer ca 180.000 flRiesling Fruhburgunder og Spatburgunder af høj kvalitet har høstet storanderkendelse hos anmeldere, men også nye druer har fundet vej til Petri`smarker, på grund af det lidt varmere klima gennem de seneste 2 årtier.Druer som Sauvignon Blanc, Cabernet Sauvignon, Merlot og selvfølgelig ogsåde klassiske Pfalz druer Grauburgunder, Weissburgunder og Gewurstraminerbliver dyrket i høj kvalitet.Jordbunden er kalksten og Sandsten, som tilføre vinene nogle spændendeMineralske noter.Huset er certificeret med det Tyske økomærke Fair and Green. Som sikre at derikke bliver brugt sprøjtegifte, meget moderat svovl og at alle der arbejder påvingården bliver betalt og behandlet efter høje standarder.HVIN har siden starten i 2004 importeret vine fra Pfalz, først WeingutHenninger i Kallstath, Men da Georg Henninger gik på Pension, var jeg på udkigefter en ny Producent, Denne fandt jeg i april 2014 i Brøndsalen i Frederiksberghave, hvor jeg som den første mødte Maximillian og straks blev forelsket iWeingut Petri`s vine.Jeg har i år importeret Weingut Petri i 10 år, og har gennem alle år haft enstigende interesse fra trofaste kunder, hvor man har oplevet at Petri`s kvalitetpå trods af at den altid har været høj, kun er blevet endnu bedre."
+        },
+        {
+            "id": "vinicea",
+            "name": "Vinicea",
+            "pretext": "Paolo Angelino / Calase Monferatto / Piemonte, Italien",
+            "description": "Siden 2018 har jeg samarbejdet med Paolo – en piemontesisk producent, der laver vine i økologisk og naturlig stil. Paolo Angelino producerer sine vine efter en filosofi om at høste sent så druerne får maksimalt højt sukkerindhold og struktur, ønsker at bevare et stort aftryk af terroir i sine vine, lagre flere af vinene i mange år på Botti og tonnex, så den store struktur får følgeskab af blødere og delikate noter, Paolo har en stor forkærlighed for orangevine og giver disse lang gæring og lagring med skindkontakt.  Produktionen er ret begrænset, ca 20.000 flasker på 9 forskellige variteter , Druerne er Barbera, Grignolino, Fresia, Arneis og Sauvignon Blanc"
+        },
+        {
+            "id": "moscone",
+            "name": "Cantina Moscone",
+            "pretext": "La Morra / Barolo / Piemonte, Italien",
+            "description": "Cantina Moscone er en relativt ny Piemonte producent, som laver klassiskeelegante Baroloer på den traditionelle metode, med lang lagring af vinen påBotti, Tonnex og små barrique. Efter 42 måneder bliver vinen flasket og liggerderefter 36 måneder på flaske inden den bliver frigivet til salg, derfor er det nuvi kan tilbyde den allerede legendariske årgang 2016 både i den alm Barolo ogderes BussiaDen totale produktion er 90.000 fl udover Nibbiolo vinene laver de også enfantastisk Barbera d Alba, desuden Arneis, Chardonnay.og en fantastisk moussende vin efter Champagnemetoden."
+        },
+        {
+            "id": "kurtin",
+            "name": "Kurtin",
+            "pretext": "Kurtin / Friuli, Collio / Nordøst Italien",
+            "description": "Kurtin er et mindre Vingård som ligger tæt på alperne, Venedig, og den Slovenske grænse.Markerne ligger i 450 meters højde og der bliver produceret vine på forskellige druer.Klimaet er tempereret og men oplever ikke de meget høje temperatur.som længere sydpå.Vinene modner på store Slovenske fade, Botti 3000-4000 liter og Tonnex p 500 liter.HVIN hjemtager pt. Kun deres topvin Rosso Collio, som er produceret på Cabernet Franc 60 % og Merlot 40%, Desuden deres Friulano."
+        }
+    ]
+}

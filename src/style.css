@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Set base styles for better readability */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Set global font and size that scales with viewport */
+html {
+  font-size: 16px;
+  /* Default font size */
+  line-height: 1.5;
+  font-family: Arial, sans-serif;
+}
+
+/* Ensure scaling with different screen sizes */
+body {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #F6F3DF;
+}
+
+/* Responsive text scaling */
+h1 {
+  font-family: 'Rubik', sans-serif;
+  font-size: 2.5rem;
+  /* Adjust size based on root font-size */
+}
+
+h2 {
+  font-size: 2rem;
+  margin-top: 20px;
+}
+
+p {
+  font-size: 1.125rem;
+  margin-top: 10px;
+  color: #333;
+}
+
+/* Header and Footer styles */
+header,
+footer {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Make footer font smaller */
+footer p {
+  font-size: 0.875rem;
+}
+
+/* Responsive breakpoints for smaller screens */
+@media (max-width: 768px) {
+  body {
+    padding: 15px;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+
+  p {
+    font-size: 1rem;
+  }
+}
